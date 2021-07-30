@@ -24,9 +24,9 @@ icon_emoji = ":rocket:"
 interval = "1s"
 ```
 記載場所が見つけづらいよ
-- url
+- url<br>
 slack->Features->Incoming Webhooks->Webhook URLs for Your Workspace->Webhook URL
-- token
+- token<br>
 slack->Features->OAuth & Permissions->OAuth Tokens for Your Workspace
 
 ### 動作確認
