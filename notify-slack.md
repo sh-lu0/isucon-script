@@ -8,7 +8,7 @@ tar zxvf notify_slack-linux-amd64.tar.gz
 ```
 
 ### Slackアプリの作成（作成済)
-- URLどこに書いてあんねん問題
+- URLどこに書いてあんねん問題<br>
 slack->Activate Incoming WebhooksをONにすると出現
 
 ### notify_slackの設定ファイルの作成
